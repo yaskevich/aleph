@@ -268,7 +268,7 @@ function prepareQueue(lang){
 		} 
 		// console.log(stor._ns);
 		// console.log("ot exist -> load");
-		$.getJSON( (lang||stor._ns) +'.json' + '?v2').done(function( data ) {
+		$.getJSON( (lang||stor._ns) +'.json' + '?v3').done(function( data ) {
 			if (stor.keys().length === 0) {
 				$.each(data, function(k,v) {
 					// console.log(v.h);
