@@ -1,0 +1,127 @@
+#choices{
+	width:100%;
+	max-width: 360px;
+	position: absolute;
+    bottom: 0;
+	padding-bottom: 5%;
+	/* padding-left: 10px; */
+	/* padding-right: 10px; */
+}
+
+.button-xsmall {
+	font-size: 0.5vw;
+}
+.button-small {
+	font-size: 1em;
+}
+
+.button-large {
+	font-size: 2vw;
+}
+
+.button-xlarge {
+	font-size: 2.5vw;
+}
+.languagediv	{
+	margin-bottom:5%;
+}
+
+#grats{
+	font-size: 36px;	
+	line-height: normal;
+}
+#results{
+	font-size: 48px;	
+	line-height: normal;
+}
+
+#resall{
+	text-align:left;
+	line-height: normal;
+}
+#drop{
+	font-size: 24px;	
+}
+#resok{
+	color: green;
+	text-align:left
+}
+#resno{
+	color: red;
+	text-align:left
+}
+
+#bbox{
+	max-width: 360px;
+	
+}
+#kana {
+	font-size: 246px;
+
+	line-height: 300px;
+	margin-bottom: 20px;
+	/* margin-left: 20%; */
+}
+.textcontent{
+	padding-left:5%;
+	padding-right:5%;
+}
+.main {
+	
+    color: black;
+	font-family: Meiryo, "MS Gothic", serif; 
+}
+
+body,
+.pure-g [class *= "pure-u"],
+.pure-g-r [class *= "pure-u"] {
+    font-family: Meiryo, "MS Gothic", serif; 
+}
+
+
+#what{
+	margin-left: 25%;
+}
+
+.hidden {
+  display: none !important;
+  visibility: hidden;
+}
+
+.answer {
+	font-weight: bold;
+	/* margin-right: 5px; */
+	text-align:center;
+}
+
+.buttondiv{
+	text-align:center;
+}
+
+.kanamarkok {
+	color:blue;
+}
+.kanamarkwrong {
+	color:red;
+}
+
+.markok {
+	background-color:blue;
+}
+.markwrong {
+	background-color:red  !important;
+}
+
+.ok {
+	/* color: white; */
+}
+
+#answer1 {
+ background-color: yellow;
+}
+#answer2 {
+ background-color: lightgreen;
+}
+#answer3 {
+ background-color: pink;
+}

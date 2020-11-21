@@ -1,0 +1,6 @@
+[
+{"name":"Yiddish", "file": "ydd.json", "features":["h", "c"], "feature": "c", "version":1},
+{"name":"Hebrew", "file": "hbr.json", "features":["r", "t", "h", "c"], "feature": "r", "version":1},
+{"name":"Hiragana", "file": "hiragana.json", "features":["h", "r", "c"], "feature": "c", "version":1},
+{"name":"Amharic", "file": "amh.json", "features":["h", "c"], "feature": "c", "version":1}
+]
